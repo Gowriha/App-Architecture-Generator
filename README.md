@@ -11,6 +11,17 @@ The AI Full App Architecture Generator is a powerful developer tool that transfo
 
 This tool accelerates project planning and reduces the early work of solution architects and tech leads.
 
+## Technologies Used
+Python (main app logic)  
+Streamlit (UI)  
+Gemini API (LLM response)  
+Mermaid.js (for diagram rendering)  
+Prompt engineering (modular templates)  
+
+## Installation & Run
+pip install -r requirements.txt  
+streamlit run app.py
+
 
 ## Example Input
 > “An online marketplace for printable and purchasable origami templates and kits.”
